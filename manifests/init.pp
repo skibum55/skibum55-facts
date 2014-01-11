@@ -1,6 +1,6 @@
 # == Class: tiaa-facts
 #
-# Full description of class facts here.
+# Full description of class tiaa-facts here.
 #
 # === Parameters
 #
@@ -23,17 +23,17 @@
 #
 # === Examples
 #
-#  class { facts:
+#  class { tiaa-facts:
 #    servers => [ 'pool.ntp.org', 'ntp.local.company.com' ],
 #  }
 #
 # === Authors
 #
-# Author Name <author@domain.com>
+# Author Name <sean.keery@tiaa-cref.org>
 #
 # === Copyright
 #
-# Copyright 2013 Your name here, unless otherwise noted.
+# Copyright 2014 Your name here, unless otherwise noted.
 #
 class tiaa-facts {
 
